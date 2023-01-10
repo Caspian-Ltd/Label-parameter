@@ -1,3 +1,7 @@
+NOTE-  this project in no longer live or supported in any way. Please do not attempt to contact the developer.
+thanks.
+
+
 ### Finding the Ground-Truth from Multiple Labellers: Why Parameters of the Task Matter
 
 Contained within this repo are the results from the experiments in the paper 'Finding the Ground-Truth from Multiple Labellers: Why Parameters of the Task Matter'. The notebook can run a single experiment instance, with all parameters easy to change.
